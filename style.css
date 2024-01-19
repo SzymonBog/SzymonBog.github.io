@@ -4,11 +4,8 @@
 	background: rgba(0, 0, 200, 1);
 	text-align: center;
 	color: rgb(0, 0, 0);
-	padding: 5px;
+	padding: 10px;
 	cursor: pointer;
-	display: flex;
-	justify-content: center;
-	align-items: center;
 	-webkit-touch-callout: none;
 	-webkit-user-select: none;
 	-moz-user-select: none;
