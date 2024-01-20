@@ -7,7 +7,7 @@
     white-space: nowrap; /* Prevent text from wrapping */
     background-color: #00244b; /* Button background color */
     color: #fff; /* Button text color */
-    border: 2px solid #007bff; /* Button border color */
+    border: 2px solid #00244b; /* Button border color */
     border-radius: 5px; /* Optional: Rounded corners */
     cursor: pointer;
 }
